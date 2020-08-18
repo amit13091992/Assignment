@@ -1,0 +1,5 @@
+export default {
+    INTRO_VISITED: 'INTRO_VISITED',
+    MOBILE: 'MOBILE_NUMBER',
+    PRODUCT: 'PRODUCT'
+};
